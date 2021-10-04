@@ -1,0 +1,13 @@
+.navLink {
+    color: #fff;
+    line-height: 1.5;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #f35f5f;
+    text-decoration: none;
+    /* text-align: center; */
+}
+.activeNavLink {
+    color: red;
+    text-shadow: 2px 2px 4px #352b2b;
+}
